@@ -1,7 +1,5 @@
 # praktikum12
 
-# praktikum_12
-
 # Latihan string python
 txt = 'Hello World'
 - hitung jumlah karakternya
@@ -36,12 +34,16 @@ print(txt.lower())  # Output: helloworld
 
 # Ganti karakter H dengan karakter J
 print(txt.replace('H', 'J'))  # Output:JelloWorld
-![img](pap/1.png)
+![2](https://user-images.githubusercontent.com/116137842/209748298-3e1f10d6-cfbd-48e0-9dc7-d87eec9982c8.png)
+
 
 # Output
-![img](pap/2.png)
+![1](https://user-images.githubusercontent.com/116137842/209748314-bd2dd58e-e8ef-4dcd-9bf0-ab66eadd9d2d.png)
+
+
 # Lengkapi kode berikut :
 umur = 24 txt = 'Hello, nama saya john, dan umur saya adalah ... tahun' print(txt.format(umur))
 
 - Untuk menyelesaikan latihan ini, Kita dapat menggunakan method format pada string. Method format akan menggantikan placeholder {} dengan nilai yang diberikan
-![img](pap/3.png)
+![3](https://user-images.githubusercontent.com/116137842/209748340-63e58c3d-e7d8-47ca-bd7e-581a1dcd93fa.png)
+
